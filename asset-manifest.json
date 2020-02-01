@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-codealong-online-cloth-shop/static/css/main.b003d805.chunk.css",
-    "main.js": "/react-codealong-online-cloth-shop/static/js/main.61428496.chunk.js",
-    "main.js.map": "/react-codealong-online-cloth-shop/static/js/main.61428496.chunk.js.map",
+    "main.css": "/react-codealong-online-cloth-shop/static/css/main.25d6b5cc.chunk.css",
+    "main.js": "/react-codealong-online-cloth-shop/static/js/main.3889b49d.chunk.js",
+    "main.js.map": "/react-codealong-online-cloth-shop/static/js/main.3889b49d.chunk.js.map",
     "runtime-main.js": "/react-codealong-online-cloth-shop/static/js/runtime-main.976e44ff.js",
     "runtime-main.js.map": "/react-codealong-online-cloth-shop/static/js/runtime-main.976e44ff.js.map",
-    "static/js/2.3f0bef2c.chunk.js": "/react-codealong-online-cloth-shop/static/js/2.3f0bef2c.chunk.js",
-    "static/js/2.3f0bef2c.chunk.js.map": "/react-codealong-online-cloth-shop/static/js/2.3f0bef2c.chunk.js.map",
+    "static/js/2.d9f16dc0.chunk.js": "/react-codealong-online-cloth-shop/static/js/2.d9f16dc0.chunk.js",
+    "static/js/2.d9f16dc0.chunk.js.map": "/react-codealong-online-cloth-shop/static/js/2.d9f16dc0.chunk.js.map",
     "index.html": "/react-codealong-online-cloth-shop/index.html",
-    "precache-manifest.7affef707ac2261693e55be3f9788890.js": "/react-codealong-online-cloth-shop/precache-manifest.7affef707ac2261693e55be3f9788890.js",
+    "precache-manifest.119692b7c478a29e5df5c37af950e3d6.js": "/react-codealong-online-cloth-shop/precache-manifest.119692b7c478a29e5df5c37af950e3d6.js",
     "service-worker.js": "/react-codealong-online-cloth-shop/service-worker.js",
-    "static/css/main.b003d805.chunk.css.map": "/react-codealong-online-cloth-shop/static/css/main.b003d805.chunk.css.map",
-    "static/js/2.3f0bef2c.chunk.js.LICENSE.txt": "/react-codealong-online-cloth-shop/static/js/2.3f0bef2c.chunk.js.LICENSE.txt"
+    "static/css/main.25d6b5cc.chunk.css.map": "/react-codealong-online-cloth-shop/static/css/main.25d6b5cc.chunk.css.map",
+    "static/js/2.d9f16dc0.chunk.js.LICENSE.txt": "/react-codealong-online-cloth-shop/static/js/2.d9f16dc0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.976e44ff.js",
-    "static/js/2.3f0bef2c.chunk.js",
-    "static/css/main.b003d805.chunk.css",
-    "static/js/main.61428496.chunk.js"
+    "static/js/2.d9f16dc0.chunk.js",
+    "static/css/main.25d6b5cc.chunk.css",
+    "static/js/main.3889b49d.chunk.js"
   ]
 }
