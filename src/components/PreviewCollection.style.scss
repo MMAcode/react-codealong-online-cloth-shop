@@ -1,0 +1,13 @@
+$shopNav-selected-color:rgb(248, 133, 149);
+.preview-collection {
+  // background-color: rgba(113, 252, 113, 0.37);
+  background: linear-gradient(180deg, $shopNav-selected-color 14%, rgba(9, 9, 121, 0) 70%);
+}
+
+.preview {
+
+  padding-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

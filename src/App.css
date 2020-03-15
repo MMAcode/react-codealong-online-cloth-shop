@@ -1,3 +1,8 @@
 body {
   font-family: 'Open Sans Condensed';
+
+  /* overflow: scroll; */
+  /* overflow: hidden; */
+  width: 100vw;
+
 }

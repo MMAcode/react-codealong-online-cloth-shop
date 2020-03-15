@@ -1,0 +1,54 @@
+@mixin noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Opera and Firefox */
+}
+
+#checkOut-item{
+  background: linear-gradient(90deg, rgba(252, 97, 97, 0.678), rgba(0, 0, 255, 0));
+}
+
+
+.checkOut-cart-image {
+  width: 100%;
+  height: auto;
+  margin: auto;
+  // margin-left: 0;
+
+}
+
+.increase-decrease{
+  background: rgba(255, 255, 255, 0);
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 100%;
+  border: 2px solid rgb(99, 98, 98);
+  // line-height: 1rem;
+  padding: 5px;
+  // margin: 0.5rem;
+  // margin: auto;
+
+  cursor: pointer;
+  @include noselect();
+  transition: background-color 0.3s, color 0.3s;
+
+  &:hover {
+    background-color: brown;
+    color:white;
+  }
+}
+
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Opera and Firefox */
+}
+

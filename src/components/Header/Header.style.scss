@@ -1,0 +1,56 @@
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  height: 4rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto 0;
+  padding: 0 5%;
+  overflow: auto;
+
+  .logo {
+    // background-color: red;
+    padding: 10px 10px 0 10px;
+
+  }
+
+
+  .menu {
+    // max-width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+    a,
+    div {
+      // margin: auto 30px;
+      // color: red;
+      // font-weight: 500;
+      font-size: 1.4rem;
+      padding: 10px 10px 0 10px;
+    }
+
+    // div {
+    //   color: red
+    // }
+  }
+
+  .shine {
+    // background-color: green;
+    // background-position: -100% 0;
+    border-bottom: 3px solid rgba(0, 0, 0, 0);
+
+    &:hover {
+      cursor: pointer;
+      border-bottom: 3px solid #000;
+      // background-position:0 0;
+      transition: border-bottom 0.7s ease-out;
+      // background: linear-gradient(0deg, rgba(9, 9, 121, 1) 0%, rgba(35, 35, 181, 0) 37%);
+
+    }
+  }
+}
