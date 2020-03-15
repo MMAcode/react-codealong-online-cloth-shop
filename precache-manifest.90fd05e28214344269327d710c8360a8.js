@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc4a418082bfa6b05d72e7724064f366",
+    "revision": "f0482b61a738c1ce63fb7931f50fa690",
     "url": "/react-codealong-online-cloth-shop/index.html"
   },
   {
-    "revision": "98e8ab0a8cd4f805a2ac",
-    "url": "/react-codealong-online-cloth-shop/static/css/main.8b49603e.chunk.css"
+    "revision": "cfb1f16fa87814fe2fdd",
+    "url": "/react-codealong-online-cloth-shop/static/css/main.214bb606.chunk.css"
   },
   {
-    "revision": "168f96d90c6b1768927d",
-    "url": "/react-codealong-online-cloth-shop/static/js/2.bd604dbb.chunk.js"
+    "revision": "4917341f0b7fdc68be87",
+    "url": "/react-codealong-online-cloth-shop/static/js/2.d48cf9e9.chunk.js"
   },
   {
     "revision": "170392c3acad6bbffec743442b1d0ac3",
-    "url": "/react-codealong-online-cloth-shop/static/js/2.bd604dbb.chunk.js.LICENSE.txt"
+    "url": "/react-codealong-online-cloth-shop/static/js/2.d48cf9e9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "98e8ab0a8cd4f805a2ac",
-    "url": "/react-codealong-online-cloth-shop/static/js/main.36b540c6.chunk.js"
+    "revision": "cfb1f16fa87814fe2fdd",
+    "url": "/react-codealong-online-cloth-shop/static/js/main.05bfd234.chunk.js"
   },
   {
     "revision": "2c24c26bc171623a9c0a",

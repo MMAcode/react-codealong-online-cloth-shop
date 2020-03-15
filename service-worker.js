@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-codealong-online-cloth-shop/precache-manifest.0f83b79455567240014f6a5075160520.js"
+  "/react-codealong-online-cloth-shop/precache-manifest.90fd05e28214344269327d710c8360a8.js"
 );
 
 self.addEventListener('message', (event) => {
