@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-codealong-online-cloth-shop/static/css/main.214bb606.chunk.css",
-    "main.js": "/react-codealong-online-cloth-shop/static/js/main.05bfd234.chunk.js",
-    "main.js.map": "/react-codealong-online-cloth-shop/static/js/main.05bfd234.chunk.js.map",
+    "main.css": "/react-codealong-online-cloth-shop/static/css/main.5ebb9a0f.chunk.css",
+    "main.js": "/react-codealong-online-cloth-shop/static/js/main.bf4cf8fa.chunk.js",
+    "main.js.map": "/react-codealong-online-cloth-shop/static/js/main.bf4cf8fa.chunk.js.map",
     "runtime-main.js": "/react-codealong-online-cloth-shop/static/js/runtime-main.976e44ff.js",
     "runtime-main.js.map": "/react-codealong-online-cloth-shop/static/js/runtime-main.976e44ff.js.map",
     "static/js/2.d48cf9e9.chunk.js": "/react-codealong-online-cloth-shop/static/js/2.d48cf9e9.chunk.js",
     "static/js/2.d48cf9e9.chunk.js.map": "/react-codealong-online-cloth-shop/static/js/2.d48cf9e9.chunk.js.map",
     "index.html": "/react-codealong-online-cloth-shop/index.html",
-    "precache-manifest.90fd05e28214344269327d710c8360a8.js": "/react-codealong-online-cloth-shop/precache-manifest.90fd05e28214344269327d710c8360a8.js",
+    "precache-manifest.339ba1c58185d826e29e10fa1c7df229.js": "/react-codealong-online-cloth-shop/precache-manifest.339ba1c58185d826e29e10fa1c7df229.js",
     "service-worker.js": "/react-codealong-online-cloth-shop/service-worker.js",
-    "static/css/main.214bb606.chunk.css.map": "/react-codealong-online-cloth-shop/static/css/main.214bb606.chunk.css.map",
+    "static/css/main.5ebb9a0f.chunk.css.map": "/react-codealong-online-cloth-shop/static/css/main.5ebb9a0f.chunk.css.map",
     "static/js/2.d48cf9e9.chunk.js.LICENSE.txt": "/react-codealong-online-cloth-shop/static/js/2.d48cf9e9.chunk.js.LICENSE.txt",
     "static/media/crown.ed28accb.svg": "/react-codealong-online-cloth-shop/static/media/crown.ed28accb.svg",
     "static/media/ShoppingCart.style.scss": "/react-codealong-online-cloth-shop/static/media/shopping-bag.30f07071.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.976e44ff.js",
     "static/js/2.d48cf9e9.chunk.js",
-    "static/css/main.214bb606.chunk.css",
-    "static/js/main.05bfd234.chunk.js"
+    "static/css/main.5ebb9a0f.chunk.css",
+    "static/js/main.bf4cf8fa.chunk.js"
   ]
 }
