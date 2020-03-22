@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e7533836d73789d50cbbe3c59163f63c",
+    "revision": "6c48f95ad6e9443ac21e1499f25650d9",
     "url": "/react-codealong-online-cloth-shop/index.html"
   },
   {
-    "revision": "7e1d84fe45fb48e03f5d",
+    "revision": "b25c34196090620a5713",
     "url": "/react-codealong-online-cloth-shop/static/css/main.44c0bf2f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-codealong-online-cloth-shop/static/js/2.b1be9e24.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7e1d84fe45fb48e03f5d",
-    "url": "/react-codealong-online-cloth-shop/static/js/main.fd45d4ad.chunk.js"
+    "revision": "b25c34196090620a5713",
+    "url": "/react-codealong-online-cloth-shop/static/js/main.0c8d4ceb.chunk.js"
   },
   {
     "revision": "2c24c26bc171623a9c0a",
