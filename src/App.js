@@ -1,5 +1,5 @@
 // import React from 'react';
-import { Route, Switch, Redirect } from 'react-router-dom';
+import { Route, Switch, Redirect, BrowserRouter } from 'react-router-dom';
 import './App.css';
 import Homepage from './pages/homepage';
 import CheckOutPage from './components/CheckOut/CheckOut'
@@ -13,10 +13,10 @@ import { connect } from 'react-redux'
 import { setCurrentUser } from './redux/user/user.actions'
 
 //selectors
-import {selectUser} from './redux/user/user.selectors'
+import { selectUser } from './redux/user/user.selectors'
 
 
-export class App extends Component { 
+export class App extends Component {
   // constructor(props) {
   //   super(props)
 
@@ -46,8 +46,8 @@ export class App extends Component {
           <Route exact path='/' component={Homepage} />
           <Route path='/shop' component={ShopPage} />
           <Route path='/checkOut' component={CheckOutPage} />
-          <Route path='/user' render={() => 
-            this.props.user ? (<Redirect to='/'/>):( <HandleUserPage />)
+          <Route path='/user' render={() =>
+            this.props.user ? (<Redirect to='/' />) : (<HandleUserPage />)
           } />
         </Switch>
       </div>
