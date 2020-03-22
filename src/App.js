@@ -16,7 +16,7 @@ import { setCurrentUser } from './redux/user/user.actions'
 import {selectUser} from './redux/user/user.selectors'
 
 
-export class App extends Component {
+export class App extends Component { 
   // constructor(props) {
   //   super(props)
 
@@ -37,9 +37,6 @@ export class App extends Component {
   componentWillUnmount() {
     this.unsubscribeFromAuth();
   }
-
-
-
 
   render() {
     return (
