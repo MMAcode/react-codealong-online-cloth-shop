@@ -16,6 +16,7 @@ ReactDOM.render(
   <Provider store={store}>
     {/* <BrowserRouter basename="https://MMAcode.github.io/react-codealong-online-cloth-shop"> */}
     <BrowserRouter basename="react-codealong-online-cloth-shop">
+      {/* <BrowserRouter> */}
       <PersistGate persistor={persistor}>
         <App />
       </PersistGate>
