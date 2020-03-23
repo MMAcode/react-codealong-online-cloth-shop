@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-codealong-online-cloth-shop/static/css/main.44c0bf2f.chunk.css",
+    "main.js": "/react-codealong-online-cloth-shop/static/js/main.0c8d4ceb.chunk.js",
+    "main.js.map": "/react-codealong-online-cloth-shop/static/js/main.0c8d4ceb.chunk.js.map",
+    "runtime-main.js": "/react-codealong-online-cloth-shop/static/js/runtime-main.976e44ff.js",
+    "runtime-main.js.map": "/react-codealong-online-cloth-shop/static/js/runtime-main.976e44ff.js.map",
+    "static/js/2.b1be9e24.chunk.js": "/react-codealong-online-cloth-shop/static/js/2.b1be9e24.chunk.js",
+    "static/js/2.b1be9e24.chunk.js.map": "/react-codealong-online-cloth-shop/static/js/2.b1be9e24.chunk.js.map",
+    "index.html": "/react-codealong-online-cloth-shop/index.html",
+    "precache-manifest.314dc4038da64f883aa3d2d37671863e.js": "/react-codealong-online-cloth-shop/precache-manifest.314dc4038da64f883aa3d2d37671863e.js",
+    "service-worker.js": "/react-codealong-online-cloth-shop/service-worker.js",
+    "static/css/main.44c0bf2f.chunk.css.map": "/react-codealong-online-cloth-shop/static/css/main.44c0bf2f.chunk.css.map",
+    "static/js/2.b1be9e24.chunk.js.LICENSE.txt": "/react-codealong-online-cloth-shop/static/js/2.b1be9e24.chunk.js.LICENSE.txt",
+    "static/media/crown.ed28accb.svg": "/react-codealong-online-cloth-shop/static/media/crown.ed28accb.svg",
+    "static/media/ShoppingCart.style.scss": "/react-codealong-online-cloth-shop/static/media/shopping-bag.30f07071.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.976e44ff.js",
+    "static/js/2.b1be9e24.chunk.js",
+    "static/css/main.44c0bf2f.chunk.css",
+    "static/js/main.0c8d4ceb.chunk.js"
+  ]
+}
